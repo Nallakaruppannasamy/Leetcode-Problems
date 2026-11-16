@@ -31,4 +31,12 @@
 |  |
 | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/3364-minimum-positive-sum-subarray) |
+## String
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
