@@ -35,8 +35,17 @@
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Simulation
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Two Pointers
+|  |
+| ------- |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 <!---LeetCode Topics End-->
