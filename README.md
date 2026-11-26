@@ -19,6 +19,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0007-reverse-integer) |
+| [3360-stone-removal-game](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/3360-stone-removal-game) |
 ## Recursion
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/3360-stone-removal-game) |
 ## Two Pointers
 |  |
 | ------- |
