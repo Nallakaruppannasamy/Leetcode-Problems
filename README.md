@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0001-two-sum) |
+| [0018-4sum](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0018-4sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/3364-minimum-positive-sum-subarray) |
 ## Hash Table
 |  |
@@ -45,9 +46,14 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0018-4sum) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
