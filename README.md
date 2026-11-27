@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0018-4sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/3364-minimum-positive-sum-subarray) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Sorting
 |  |
 | ------- |
@@ -73,4 +75,8 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
+## Greedy
+|  |
+| ------- |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/3946-maximum-number-of-items-from-sale-i) |
 <!---LeetCode Topics End-->
