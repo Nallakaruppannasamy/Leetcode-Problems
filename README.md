@@ -21,6 +21,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0007-reverse-integer) |
+| [0258-add-digits](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0258-add-digits) |
 | [2235-add-two-integers](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/2235-add-two-integers) |
 | [3360-stone-removal-game](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/3360-stone-removal-game) |
 ## Recursion
@@ -43,6 +44,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0258-add-digits) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3360-stone-removal-game](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/3360-stone-removal-game) |
 ## Two Pointers
@@ -80,4 +82,8 @@
 |  |
 | ------- |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/3946-maximum-number-of-items-from-sale-i) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
