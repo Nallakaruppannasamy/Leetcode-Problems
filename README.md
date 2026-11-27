@@ -25,6 +25,7 @@
 | [0009-palindrome-number](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0009-palindrome-number) |
 | [0204-count-primes](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0258-add-digits) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2235-add-two-integers](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/2235-add-two-integers) |
 | [3360-stone-removal-game](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/3360-stone-removal-game) |
 ## Recursion
