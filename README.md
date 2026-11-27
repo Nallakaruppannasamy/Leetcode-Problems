@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0018-4sum) |
+| [0204-count-primes](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0204-count-primes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
@@ -22,6 +23,7 @@
 | [0002-add-two-numbers](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0009-palindrome-number) |
+| [0204-count-primes](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0258-add-digits) |
 | [2235-add-two-integers](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/2235-add-two-integers) |
 | [3360-stone-removal-game](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/3360-stone-removal-game) |
@@ -86,5 +88,22 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0258-add-digits) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
