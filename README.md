@@ -16,6 +16,7 @@
 | [0561-array-partition](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0561-array-partition) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,6 +85,7 @@
 | [0018-4sum](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0018-4sum) |
 | [0455-assign-cookies](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0561-array-partition) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Tree
 |  |
 | ------- |
@@ -107,6 +109,7 @@
 | [0455-assign-cookies](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0561-array-partition) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -140,4 +143,8 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0455-assign-cookies) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 <!---LeetCode Topics End-->
