@@ -52,6 +52,7 @@
 ## String
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0091-decode-ways) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Simulation
@@ -71,6 +72,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0091-decode-ways) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
