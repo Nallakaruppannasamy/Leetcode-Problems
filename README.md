@@ -14,6 +14,7 @@
 | [0135-candy](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0135-candy) |
 | [0204-count-primes](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0217-contains-duplicate) |
+| [0321-create-maximum-number](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0321-create-maximum-number) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0455-assign-cookies](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0561-array-partition) |
@@ -75,6 +76,7 @@
 | [0015-3sum](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0018-4sum) |
+| [0321-create-maximum-number](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0321-create-maximum-number) |
 | [0455-assign-cookies](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Dynamic Programming
@@ -121,6 +123,7 @@
 | [0011-container-with-most-water](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0135-candy) |
+| [0321-create-maximum-number](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0321-create-maximum-number) |
 | [0455-assign-cookies](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0605-can-place-flowers) |
@@ -168,4 +171,12 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0070-climbing-stairs) |
+## Stack
+|  |
+| ------- |
+| [0321-create-maximum-number](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0321-create-maximum-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0321-create-maximum-number](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0321-create-maximum-number) |
 <!---LeetCode Topics End-->
