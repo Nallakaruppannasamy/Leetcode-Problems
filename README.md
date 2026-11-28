@@ -31,6 +31,7 @@
 | [0002-add-two-numbers](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0258-add-digits) |
 | [0441-arranging-coins](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0441-arranging-coins) |
@@ -72,6 +73,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0091-decode-ways) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -149,4 +151,8 @@
 |  |
 | ------- |
 | [3947-maximum-number-of-items-from-sale-ii](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/3947-maximum-number-of-items-from-sale-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
