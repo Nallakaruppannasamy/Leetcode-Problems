@@ -17,6 +17,7 @@
 | [0455-assign-cookies](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0605-can-place-flowers) |
+| [0704-binary-search](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0704-binary-search) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [3947-maximum-number-of-items-from-sale-ii](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/3947-maximum-number-of-items-from-sale-ii) |
@@ -148,6 +149,7 @@
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0441-arranging-coins) |
+| [0704-binary-search](https://github.com/Nallakaruppannasamy/Leetcode-Problems/tree/master/0704-binary-search) |
 ## Counting Sort
 |  |
 | ------- |
